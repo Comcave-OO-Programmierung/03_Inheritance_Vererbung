@@ -10,7 +10,7 @@ public class Cat {
   private int counter;
 
   public Cat(String firstName, String furColor, int age, boolean isFemale) {
-    this.name = name;
+    this.firstName = firstName;
     this.furColor = furColor;
     this.age = age;
     this.isFemale = isFemale;
